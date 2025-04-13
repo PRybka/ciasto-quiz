@@ -48,7 +48,7 @@ if st.button("🔍 Sprawdź swoje ciasto!"):
     wynik = max(punkty, key=punkty.get)
 
     nazwy = {
-        "thriatlon": "Triathlonowe ciasto energetyczne 💪",
+        "thriatlon": "Thrrrrrriatlon! 🚀 ",
         "rurki": "Klasyczne rurki z kremem 🍦",
         "to_cos_z_pistajowym_kremem": "Coś z pistacjowym kremem 💚",
         "mazurek": "Tradycyjny mazurek 🇵🇱"
